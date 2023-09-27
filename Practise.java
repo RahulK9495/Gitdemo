@@ -30,4 +30,9 @@ public class Practise {
 		System.out.println(p);
 	}
 
+	public void method()
+{
+
+}
+
 }
